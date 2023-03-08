@@ -7,7 +7,8 @@
 
   ##
   
-  - 🌱- Sou um estudante de tecnologia 
+  - 🌱- Sou um estudante de tecnologia
+  - 🪐 Acadêmico em tecnologia da informação - UFERSA
   - ☕- Futuro engenheiro da programação
   - 💻- Apaixonado por tecnologia 
   
