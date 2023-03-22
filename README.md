@@ -1,8 +1,9 @@
 ## Olá, sou o Allan, um estudante de tecnologia!
 
 <div align="left">
-  <a href="https://github.com/Allan-Gabriell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Gabriell&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
 </div>
 
   ##
