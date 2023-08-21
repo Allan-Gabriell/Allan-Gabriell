@@ -10,6 +10,7 @@
   
   - 🌱- Sou um estudante de tecnologia
   - 🪐- Acadêmico em tecnologia da informação - UFERSA
+  - 🎓- Semestre 2023.1
   - ☕- Futuro engenheiro da programação
   - 💻- Apaixonado por tecnologia 
   
@@ -18,6 +19,7 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Allan-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
     <img align="center" alt="Allan-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
+    <img aling="center" alt="Allan-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
   </div>
   
   
