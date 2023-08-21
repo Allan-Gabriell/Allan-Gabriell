@@ -11,7 +11,7 @@
   - 🌱- Sou um estudante de tecnologia
   - 🪐- Acadêmico em tecnologia da informação - UFERSA
   - 🎓- Semestre 2023.1
-  - ☕- Futuro engenheiro da programação
+  - ☕- Futuro engenheiro da software
   - 💻- Apaixonado por tecnologia 
   
   ##
