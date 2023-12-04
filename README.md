@@ -3,6 +3,9 @@
 <div align="left">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan-Gabriell&show_icons=true&theme=dark)
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Gabriell&layout=compact&langs=16&theme=dark"/>
+<div>
   
 </div>
 
