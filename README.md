@@ -23,6 +23,7 @@
     <img align="center" alt="Allan-HTML" height="30" width="30" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">  
     <img align="center" alt="Allan-CSS" height="30" width="30" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
     <img align="center" alt="Allan-c" height="30" width="30" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">   
+    <img aling="center" alt="Allan-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
     <img aling="center" alt="Allan-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img aling="center" alt="Allan-nodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img aling="center" alt="Allan-github" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo">
@@ -42,7 +43,7 @@
 
   Linguagens que desejo aprender:
 
-   <img aling="center" alt="Allan-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img aling="center" alt="Allan-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img aling="center" alt="Allan-React" height="40" width="40" src="https://img.icons8.com/ios/50/FFFFFF/react-native--v1.png"> 
+   <img aling="center" alt="Allan-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img aling="center" alt="Allan-React" height="40" width="40" src="https://img.icons8.com/ios/50/FFFFFF/react-native--v1.png"> 
 
    ##
   
