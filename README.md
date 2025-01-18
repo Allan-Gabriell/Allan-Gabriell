@@ -28,6 +28,7 @@
     <img aling="center" alt="Allan-nodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img aling="center" alt="Allan-github" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo">
     <img aling="center" alt="Allan-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img aling="center" alt="Allan-React" height="40" width="40" src="https://img.icons8.com/ios/50/FFFFFF/react-native--v1.png"> 
   </div>
   
   ##
@@ -43,8 +44,7 @@
 
   Linguagens que desejo aprender:
 
-   <img aling="center" alt="Allan-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img aling="center" alt="Allan-React" height="40" width="40" src="https://img.icons8.com/ios/50/FFFFFF/react-native--v1.png"> 
-
+   <img aling="center" alt="Allan-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
    ##
   
   <div>
