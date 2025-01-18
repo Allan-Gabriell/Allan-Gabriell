@@ -45,6 +45,7 @@
   Linguagens que desejo aprender:
 
    <img aling="center" alt="Allan-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+   
    ##
   
   <div>
