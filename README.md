@@ -13,7 +13,7 @@
   
   - 🌱- Sou um estudante de tecnologia
   - 🪐- Acadêmico em tecnologia da informação - UFERSA
-  - 🎓- Semestre 2024.3 (atualmente no 4° semestre)
+  - 🎓- Atualente no meu 5° período
   - ☕- Futuro engenheiro da software
   - 💻- Apaixonado por tecnologia 
   
